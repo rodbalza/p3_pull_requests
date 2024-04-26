@@ -102,7 +102,7 @@ y = df["variable_objetivo"]
 
 ###########################################
 #################################
-# Manuel Murillo: Pegar tu enlace aquí: https://github.com/manuelmurillo1984/p3_pull_requests.git
+# Manuel Murillo: Pegar tu enlace aquí: https://github.com/manuelmurillo1984/p3_pull_requests/blob/ac15dea77fc9a7221c17b6f5418a8e10ed217110/manuelmurillo.pdf
 
 #################################
 #################################
