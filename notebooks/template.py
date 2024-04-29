@@ -50,7 +50,7 @@ df.dropna(inplace=True)
 df.drop_duplicates(inplace=True)
 df["variable_numerica"] = df["variable_numerica"].astype("float")
 #################################
-# Alvaro Manzanas: Pegar tu enlace aquí: 
+# Alvaro Manzanas: Pegar tu enlace aquí: https://github.com/alvman365/p2-modulo3/blob/main/archivos/limpieza%20de%20datos%20alvaro%20manzanas.pdf 
 
 #################################
 #################################
