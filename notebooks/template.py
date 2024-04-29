@@ -62,7 +62,7 @@ df["variable_numerica"] = df["variable_numerica"].astype("float")
 
 #################################
 #################################
-# Luis Torres: Pegar tu enlace aquí: 
+# Luis Torres: Pegar tu enlace aquí: https://github.com/Luistajamar/p3_pull_requests/blob/main/luistorresgg/luistorresgg.pdf
 
 #################################
 
@@ -87,7 +87,7 @@ df.corr()
 
 #################################
 #################################
-# Luis Torres: Pegar tu enlace aquí: 
+# Luis Torres: Pegar tu enlace aquí: https://github.com/Luistajamar/p3_pull_requests/blob/main/luistorresgg/luistorresgg.pdf
 
 #################################
 
