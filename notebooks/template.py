@@ -196,7 +196,7 @@ import pickle
 pickle.dump(modelo, open("modelo.pkl", "wb"))
 #########################################################################
 # Juan D. Pegar el enlace aquí: 
-
+https://github.com/john-sunday/p3_pull_requests/blob/main/p03-JuanDomingoOrtin.pdf
 #########################################################################
 #################################
 # Alvaro Manzanas: Pegar tu enlace aquí: 
@@ -209,7 +209,7 @@ pickle.dump(modelo, open("modelo.pkl", "wb"))
 
 #########################################################################
 # Juan D. Pegar el enlace aquí: 
-
+https://github.com/john-sunday/p3_pull_requests/blob/main/p03-JuanDomingoOrtin.pdf
 #########################################################################
 
 
@@ -217,5 +217,6 @@ pickle.dump(modelo, open("modelo.pkl", "wb"))
 # (Explique los resultados del proyecto y su impacto en el problema de negocio)
 # Investigar cómo presentar resultados de proyecto de Ciencia de datos que impacte al publico
 
+https://github.com/john-sunday/p3_pull_requests/blob/main/p03-JuanDomingoOrtin.pdf
 
 
