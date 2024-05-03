@@ -124,6 +124,7 @@ modelo = LinearRegression()
 modelo.fit(X_train, y_train)
 ####################################################
 # Olga Gabrik. Pegar tu enlace aqui:
+https://github.com/olgagavrik/Dominoolga/blob/main/Olga%20Gavrik.pdf
 
 ####################################################
 #################################
@@ -152,7 +153,7 @@ print("Precisión en prueba:", score_test)
 #######################################################
 #######################################################
 # Olga Gabrik.Pegar tu enlace aquí:
-
+https://github.com/olgagavrik/Dominoolga/blob/main/Olga%20Gavrik.pdf
 #######################################################
 #################################
 # Humberto Sánchez: Pegar tu enlace aquí: 
