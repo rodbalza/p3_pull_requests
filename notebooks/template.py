@@ -135,7 +135,7 @@ modelo.fit(X_train, y_train)
 
 ########################################
 #######################################
-# Irene Serrano. Pegar tu enlace aquí:
+# Irene Serrano. Pegar tu enlace aquí: https://github.com/enery25/m3p3respuestas.git
 
 #######################################
 
@@ -159,7 +159,7 @@ print("Precisión en prueba:", score_test)
 
 #################################
 #######################################
-# Irene Serrano. Pegar tu enlace aquí:
+# Irene Serrano. Pegar tu enlace aquí: https://github.com/enery25/m3p3respuestas.git
 
 #######################################
 
@@ -184,7 +184,7 @@ plt.show()
 
 ######################################
 #######################################
-# Irene Serrano. Pegar tu enlace aquí:
+# Irene Serrano. Pegar tu enlace aquí: https://github.com/enery25/m3p3respuestas.git
 
 #######################################
 
