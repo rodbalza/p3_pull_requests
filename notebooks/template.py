@@ -135,7 +135,7 @@ https://github.com/olgagavrik/Dominoolga/blob/main/Olga%20Gavrik.pdf
 
 ########################################
 #######################################
-# Irene Serrano. Pegar tu enlace aquí:
+# Irene Serrano. Pegar tu enlace aquí: https://github.com/enery25/m3p3respuestas.git
 
 #######################################
 
@@ -159,7 +159,7 @@ https://github.com/olgagavrik/Dominoolga/blob/main/Olga%20Gavrik.pdf
 
 #################################
 #######################################
-# Irene Serrano. Pegar tu enlace aquí:
+# Irene Serrano. Pegar tu enlace aquí: https://github.com/enery25/m3p3respuestas.git
 
 #######################################
 
@@ -184,7 +184,7 @@ plt.show()
 
 ######################################
 #######################################
-# Irene Serrano. Pegar tu enlace aquí:
+# Irene Serrano. Pegar tu enlace aquí: https://github.com/enery25/m3p3respuestas.git
 
 #######################################
 
