@@ -55,7 +55,7 @@ df["variable_numerica"] = df["variable_numerica"].astype("float")
 #################################
 #################################
 # Reinaldo Díaz. Pegar tu enlace aqui:
-
+https://github.com/reymizos/p1-modulo3/commit/26ef29de79cf597e31f8ddffd50ea52e17f9d48c
 #################################
 #################################
 # Ederson Quintero: Pegar tu enlace aquí: 
@@ -80,7 +80,7 @@ df.corr()
 ##################################################
 ##################################################
 # Reinaldo Díaz. Pegar tu enlace aquí:
-
+https://github.com/reymizos/p1-modulo3/commit/26ef29de79cf597e31f8ddffd50ea52e17f9d48c
 ##################################################
 #################################
 # Angélica Ríos: Pegar tu enlace aquí: 
